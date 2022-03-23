@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'stay vibes';
+    src: url('./fonts/Stayvibes-8MdV0.otf');
+}
+
+.heading-vibes{
+    font-family: 'stay vibes';
+}
